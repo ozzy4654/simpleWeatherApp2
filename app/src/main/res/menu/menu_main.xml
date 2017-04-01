@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.ozankalan.simpleweatherapp2.activities.MainActivity">
+
+    <item android:id="@+id/action_search"
+          android:title="@string/action_search"
+          android:icon="@android:drawable/ic_menu_search"
+          app:showAsAction="ifRoom"
+          app:actionViewClass="android.support.v7.widget.SearchView" />
+    <item
+            android:id="@+id/action_edit"
+            android:icon="@drawable/f_temp"
+            android:orderInCategory="200"
+            app:showAsAction="ifRoom"
+            android:title=""/>
+    <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="300"
+            android:title="@string/action_settings"
+            app:showAsAction="never"/>
+</menu>

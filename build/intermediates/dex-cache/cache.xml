@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_a45ad84a71e7cf21a295669d625951bcf80bf930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a40ebd87c080f82ea8306d7ba49a69b2f5de2618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_551bdc12b9c95b63030ba1a481bdd98ade3f4241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.1_ea265b6912cd1f885f28c0a04b3b7f3c75368a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.github.eltos/simpledialogfragment/2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3378210b0b72648bb4403846000292d95e42fae">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.github.eltos-simpledialogfragment-2.0_cebc59d0debe65348e0ed97516d77a1bee479f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.github.TheBrownArrow/PermissionManager/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="009fd2f2b3e587754c5db392d364f79b5fb780e2">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.github.TheBrownArrow-PermissionManager-1.0.0_3806b08ca392649c13f5add697d7527f79c0c415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_33228101fe308fa6ad354d053325798e5d1ce605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_fd8764072062184965532d92bb3d64c42dadea88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_5a9658343d964b77a4e00d1dbb0fa7c5a2423c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_11e11b81fa4f4e179e823643096b98bdcb52b3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/haha-2.0.3_893389ad5eb19e94bd8dc6e59a1d73438f2038dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_f2d830d662d8bcf34e4182a25ab47a1a612ca2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_fc88bca8abc9edda9bb38896e86feb07f14e4bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_b0cc06693a5bf0c04c9fd0ddda4e4ed6887263be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.1_3e9d1c657394607f9efa2fae22a26c331a8601a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_e363bfd9ee8856bb452b0ff7ec9f6c92aa430cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_18cd023eb02d6051e1d36b04da33d5e80ab4abb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_052354263e244f914d18f441af9aa7f1489a8949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_77120e50e168844258edba6c25a754b6cf022340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.1_941c375ac9877f4ef5e8ecb1d38ee0a0e55ac564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_b15a3dbd38dbd7d81a884955ab08345c5f99b51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_52a7ca65d8e9b37c18863e18e604ad17ac4399ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_58cd5762a86f6d75db813150541479e59179e51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/okio-1.11.0_c0b8efbb7bbe21767aaac3c25de4f59b091caceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_399e0e85f490c3569547f3ecc30088b6f42416f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/gson-2.7_ebe2910b5b7fca28f8649c0d3ff4a50026e62f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.5_634bdec6a915d2b080d79c71882315e0e98bee8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.1_b8c24e748d24aefdf67aa06684699e8c50f8df65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_cb4c5426afc3a60c7259b8fbb306481dc07bab71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_d55c6ee6dc87ac117ead774d5d82a9ab75801563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/Ozan.Kalan/Android Projects/simpleWeatherApp2/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_32b64ae7e1f174d38675811b0b2a40f943a9b328.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">simpleWeatherApp2</string>
+
+    <!--Api Key and URLS-->
+    <string name="key">f373f2d93092d5ec953798d913cc3760</string>
+    <string name="base_url">http://api.openweathermap.org/</string>
+    <string name="icon_url">img/w/</string>
+
+
+    <!-- Menu bar/tool bars -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">search</string>
+
+
+    <!--Alert Dialog-->
+    <string name="current_temp_title">The current temp is:</string>
+    <string name="zip_hint">60601</string>
+    <string name="alert_no_results_title">NO RESULTS FOUND</string>
+    <string name="no_results_msg">please enter another ZipCode</string>
+    <string name="alert_no_permissions_title">PERMISSIONS NOT GRANTED</string>
+    <string name="alert_no_permission_msg">Enter your ZipCode or Please go to settings and enable GPS for better Weather forecasting</string>
+
+</resources>
